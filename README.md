@@ -9,7 +9,11 @@ Usage
 Customization
 Contributing
 License
+
+
 Features
+
+
 Converts input text to speech.
 Allows you to adjust the pitch and rate of the speech.
 Lets you choose from available system voices.
@@ -29,7 +33,10 @@ cd your-repo
 Launch the HTML file in your preferred browser:
 
 open index.html
+
 Usage
+
+
 Enter the text you want to convert to speech in the provided text area.
 Adjust the pitch and rate sliders to your preference.
 Choose a voice from the available voices dropdown menu.
