@@ -13,7 +13,6 @@ License
 
 Features
 
-
 Converts input text to speech.
 Allows you to adjust the pitch and rate of the speech.
 Lets you choose from available system voices.
